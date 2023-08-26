@@ -1,0 +1,7 @@
+// env idea
+./client/.env -- REACT_BASE_URL="http://localhost:PORT" -- port == node.js server port
+.env -- root directory: port, dev_mode, Mongo url, JWT Token
+PORT= 8080
+DEV_MODE= development
+MONGO_URL=mongodb+srv://####:####@cluster0.qtllmns.mongodb.net/####
+JWT_SECRET= ###
